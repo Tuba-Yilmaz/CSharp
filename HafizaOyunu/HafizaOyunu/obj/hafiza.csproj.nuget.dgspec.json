@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\notlar\\Githup\\cSharp\\HafizaOyunu\\HafizaOyunu\\sinirkrizi.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\notlar\\Githup\\cSharp\\HafizaOyunu\\HafizaOyunu\\hafiza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\notlar\\Githup\\cSharp\\HafizaOyunu\\HafizaOyunu\\sinirkrizi.csproj": {
+    "C:\\Users\\ACER\\Desktop\\notlar\\Githup\\cSharp\\HafizaOyunu\\HafizaOyunu\\hafiza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\notlar\\Githup\\cSharp\\HafizaOyunu\\HafizaOyunu\\sinirkrizi.csproj",
-        "projectName": "sinirkrizi",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\notlar\\Githup\\cSharp\\HafizaOyunu\\HafizaOyunu\\sinirkrizi.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\notlar\\Githup\\cSharp\\HafizaOyunu\\HafizaOyunu\\hafiza.csproj",
+        "projectName": "hafiza",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\notlar\\Githup\\cSharp\\HafizaOyunu\\HafizaOyunu\\hafiza.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ACER\\Desktop\\notlar\\Githup\\cSharp\\HafizaOyunu\\HafizaOyunu\\obj\\",
         "projectStyle": "PackageReference",
