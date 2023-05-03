@@ -1,4 +1,4 @@
-# CSharp
+# HAFIZA OYUNU
 ###### Login screen
 ![a1](https://user-images.githubusercontent.com/123901071/226176070-3a0a7570-3795-4cc9-a31c-8c427d5b100b.png)
 ###### Game screen
